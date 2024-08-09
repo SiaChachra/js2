@@ -1,0 +1,15 @@
+body {
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+#artist-list {
+    margin-top: 20px;
+}
+
+.artist-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
